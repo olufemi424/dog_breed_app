@@ -1,0 +1,26 @@
+{
+  "name": "boiler-plate",
+  "version": "1.0.0",
+  "description": "Dog App",
+  "main": "index.js",
+  "homepage": "https://olufemi424/github.io/dog_breed_app",
+  "scripts": {
+    "deploy": "gh-pages -d "
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olufemi424/dog_breed_app.git"
+  },
+  "keywords": [
+    "dog",
+    "app"
+  ],
+  "author": "Olufemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olufemi424/dog_breed_app/issues"
+  }
+}
